@@ -7,7 +7,7 @@ excerpt: >-
 date: '2018-01-23'
 thumb_img_path: images/photo_2021-05-19_14-17-40.jpg
 thumb_img_alt: A motorcycle in a forest
-content_img_path: images/3.jpg
+content_img_path: images/amazing-robin.jpg
 content_img_alt: A motorcycle in a forest
 seo:
   title: The Ride In The Woods
