@@ -8,7 +8,7 @@ excerpt: >-
 date: '2019-03-24'
 thumb_img_path: images/photo_2020-12-29_17-50-33.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
+content_img_path: images/festive-broccoli.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
