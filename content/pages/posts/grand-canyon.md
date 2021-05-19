@@ -8,7 +8,7 @@ excerpt: >-
 date: '2019-03-10'
 thumb_img_path: images/photo_2021-05-19_14-18-31.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/8.jpg
+content_img_path: images/futuristic-coriander.jpg
 content_img_alt: Hikers on the trail
 seo:
   title: Hiking The Grand Canyon
